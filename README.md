@@ -1,2 +1,4 @@
 # WinterJam2017
-Projet de Game Jam
+Projet réalisé en Game Jam - déc. 2017
+
+
